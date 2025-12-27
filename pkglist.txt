@@ -167,6 +167,7 @@ usb_modeswitch
 usbutils
 uwsm
 vi
+visual-studio-code-bin
 vlc-plugins-all
 vpl-gpu-rt
 vulkan-intel
