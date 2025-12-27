@@ -1,0 +1,13 @@
+.config/gh/
+.config/google-chrome/
+.config/chromium/
+.config/Code/
+.config/discord/
+**/node_modules/
+**/Cache/
+**/*.log
+.config/gh/
+.config/google-chrome/
+.config/chromium/
+.config/Code/
+**/Cache/
